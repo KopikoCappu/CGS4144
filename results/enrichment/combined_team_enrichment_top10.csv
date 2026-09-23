@@ -1,0 +1,11 @@
+term_id,term_name,methods_tested,methods_significant,significant_fraction,wilcoxon_tested,gprofiler_tested,wilcoxon_gene_set_size,wilcoxon_effect_difference,wilcoxon_p_value,wilcoxon_adjusted_p_value,wilcoxon_significant,gprofiler_term_size,gprofiler_intersection_size,gprofiler_p_value,gprofiler_significant
+GO:0071456,cellular response to hypoxia,2,2,1.0,True,True,240.0,0.0114113581548961,0.0037678068954797,0.0210008908928381,True,222.0,14.0,0.0013702423002668,True
+GO:0009699,phenylpropanoid biosynthetic process,2,2,1.0,True,True,26.0,-0.0640172729360852,0.0015885601483995,0.0105593431166756,True,105.0,9.0,0.0023723251961712,True
+GO:0009873,ethylene-activated signaling pathway,2,2,1.0,True,True,66.0,0.0167853723566616,0.0002933704439687,0.0026481225915759,True,163.0,10.0,0.0125365805674949,True
+GO:0035556,intracellular signal transduction,2,2,1.0,True,True,152.0,-0.0110978718212292,0.0008305134048692,0.006369350924561,True,442.0,18.0,0.0149791662123829,True
+GO:0006979,response to oxidative stress,2,2,1.0,True,True,318.0,-0.0037851444432348,0.0014282611734514,0.0097608693644299,True,402.0,16.0,0.0290565812798276,True
+GO:0006364,rRNA processing,1,1,1.0,True,False,117.0,0.0635189173900456,1.8614532502758964e-22,6.255886452459663e-20,True,,,,
+GO:0000463,"maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)",1,1,1.0,True,False,23.0,0.1045839089448961,2.1133338255278657e-13,1.95963682003493e-11,True,,,,
+GO:0042254,ribosome biogenesis,1,1,1.0,True,False,49.0,0.0726561845106042,6.312425065675119e-13,5.3655613058238517e-11,True,,,,
+GO:0042221,response to chemical,1,1,1.0,False,True,,,,,,2619.0,96.0,2.202166241040921e-10,True
+GO:0002183,cytoplasmic translational initiation,1,1,1.0,True,False,28.0,0.0718539227923569,4.1022319528565534e-12,2.7895177279424566e-10,True,,,,
