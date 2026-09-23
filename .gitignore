@@ -4,7 +4,7 @@ __pycache__/
 .ipynb_checkpoints/
 
 data/processed/*
-results/enrichment/*
+!data/processed/arabidopsis_go_bp_annotations.csv
 
 !data/processed/.gitkeep
 !plots/.gitkeep
