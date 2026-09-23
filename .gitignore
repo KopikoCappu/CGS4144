@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+data/processed/*
+!data/processed/arabidopsis_go_bp_annotations.csv
+
+!data/processed/.gitkeep
+!plots/.gitkeep
+!results/tables/.gitkeep
+!results/enrichment/.gitkeep

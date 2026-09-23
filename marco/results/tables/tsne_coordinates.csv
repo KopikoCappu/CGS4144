@@ -1,0 +1,33 @@
+biological_sample,environment,age,genotype,replicate,tSNE1,tSNE2
+"Ground Control, 4 days old, Col-0 Rep1",Ground,4,Col-0,Rep1,40.37623,-6.7968636
+"Ground Control, 4 days old, Col-0 Rep2",Ground,4,Col-0,Rep2,42.65139,-7.344894
+"Ground Control, 4 days old, Col-0 Rep3",Ground,4,Col-0,Rep3,40.632915,-8.960288
+"Ground Control, 4 days old, Col-0 Rep4",Ground,4,Col-0,Rep4,41.849712,-5.708863
+"Spaceflight, 4 days old, Col-0 Rep1",Spaceflight,4,Col-0,Rep1,47.84191,-8.77754
+"Spaceflight, 4 days old, Col-0 Rep2",Spaceflight,4,Col-0,Rep2,50.246803,-9.57975
+"Spaceflight, 4 days old, Col-0 Rep3",Spaceflight,4,Col-0,Rep3,48.53912,-10.4344635
+"Spaceflight, 4 days old, Col-0 Rep4",Spaceflight,4,Col-0,Rep4,49.231205,-7.254332
+"Ground Control, 4 days old, WS Rep1",Ground,4,WS,Rep1,-31.84777,17.704533
+"Ground Control, 4 days old, WS Rep2",Ground,4,WS,Rep2,-30.379526,12.697611
+"Ground Control, 4 days old, WS Rep3",Ground,4,WS,Rep3,-30.893368,14.911633
+"Ground Control, 4 days old, WS Rep4",Ground,4,WS,Rep4,-30.286465,16.967453
+"Spaceflight, 4 days old, WS Rep1",Spaceflight,4,WS,Rep1,-30.942354,6.661244
+"Spaceflight, 4 days old, WS Rep2",Spaceflight,4,WS,Rep2,-33.38526,12.052601
+"Spaceflight, 4 days old, WS Rep3",Spaceflight,4,WS,Rep3,-34.77596,12.401617
+"Spaceflight, 4 days old, WS Rep4",Spaceflight,4,WS,Rep4,-31.94783,5.712927
+"Ground Control, 8 days old, Col-0 Rep1",Ground,8,Col-0,Rep1,26.679758,-43.521675
+"Ground Control, 8 days old, Col-0 Rep2",Ground,8,Col-0,Rep2,28.005638,-42.38095
+"Ground Control, 8 days old, Col-0 Rep3",Ground,8,Col-0,Rep3,30.294437,-43.38319
+"Ground Control, 8 days old, Col-0 Rep4",Ground,8,Col-0,Rep4,28.274601,-44.725006
+"Spaceflight, 8 days old, Col-0 Rep1",Spaceflight,8,Col-0,Rep1,24.855892,-37.288826
+"Spaceflight, 8 days old, Col-0 Rep2",Spaceflight,8,Col-0,Rep2,27.305828,-36.678333
+"Spaceflight, 8 days old, Col-0 Rep3",Spaceflight,8,Col-0,Rep3,24.340355,-39.429314
+"Spaceflight, 8 days old, Col-0 Rep4",Spaceflight,8,Col-0,Rep4,26.087051,-38.704197
+"Ground Control, 8 days old, WS Rep1",Ground,8,WS,Rep1,-48.425686,23.654036
+"Ground Control, 8 days old, WS Rep2",Ground,8,WS,Rep2,-46.453114,23.172752
+"Ground Control, 8 days old, WS Rep3",Ground,8,WS,Rep3,-45.27369,24.973944
+"Ground Control, 8 days old, WS Rep4",Ground,8,WS,Rep4,-47.230755,25.414896
+"Spaceflight, 8 days old, WS Rep1",Spaceflight,8,WS,Rep1,-42.74884,18.805363
+"Spaceflight, 8 days old, WS Rep2",Spaceflight,8,WS,Rep2,-42.157703,20.695566
+"Spaceflight, 8 days old, WS Rep3",Spaceflight,8,WS,Rep3,-40.278652,19.6575
+"Spaceflight, 8 days old, WS Rep4",Spaceflight,8,WS,Rep4,-40.893147,17.823118
