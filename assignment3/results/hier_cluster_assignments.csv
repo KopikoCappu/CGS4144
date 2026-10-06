@@ -1,0 +1,33 @@
+refinebio_title,condition,age,genotype,hier_k2,hier_k3,hier_k4,hier_k5,hier_k6,hier_10_genes,hier_100_genes,hier_1000_genes,hier_5000_genes,hier_10000_genes
+"Ground Control, 4 days old, Col-0 Rep1",ground,4d,Col-0,1,1,1,0,2,0,1,1,1,1
+"Ground Control, 4 days old, Col-0 Rep2",ground,4d,Col-0,1,1,1,0,2,0,1,1,1,1
+"Ground Control, 4 days old, Col-0 Rep3",ground,4d,Col-0,1,1,1,0,2,0,1,1,1,1
+"Ground Control, 4 days old, Col-0 Rep4",ground,4d,Col-0,1,1,1,0,2,0,1,1,1,1
+"Ground Control, 4 days old, WS Rep1",ground,4d,WS,0,0,0,1,0,1,0,0,0,0
+"Ground Control, 4 days old, WS Rep2",ground,4d,WS,0,0,0,1,0,1,0,0,0,0
+"Ground Control, 4 days old, WS Rep3",ground,4d,WS,0,0,0,1,0,1,0,0,0,0
+"Ground Control, 4 days old, WS Rep4",ground,4d,WS,0,0,0,1,0,1,0,0,0,0
+"Ground Control, 8 days old, Col-0 Rep1",ground,8d,Col-0,1,1,1,0,1,0,1,1,1,1
+"Ground Control, 8 days old, Col-0 Rep2",ground,8d,Col-0,1,1,1,0,1,0,1,1,1,1
+"Ground Control, 8 days old, Col-0 Rep3",ground,8d,Col-0,1,1,1,0,1,0,1,1,1,1
+"Ground Control, 8 days old, Col-0 Rep4",ground,8d,Col-0,1,1,1,0,1,0,1,1,1,1
+"Ground Control, 8 days old, WS Rep1",ground,8d,WS,0,2,2,2,5,1,0,0,0,0
+"Ground Control, 8 days old, WS Rep2",ground,8d,WS,0,2,2,2,5,1,0,0,0,0
+"Ground Control, 8 days old, WS Rep3",ground,8d,WS,0,2,2,2,5,1,0,0,0,0
+"Ground Control, 8 days old, WS Rep4",ground,8d,WS,0,2,2,2,5,1,0,0,0,0
+"Spaceflight, 4 days old, Col-0 Rep1",flight,4d,Col-0,1,1,1,0,2,0,1,1,1,1
+"Spaceflight, 4 days old, Col-0 Rep2",flight,4d,Col-0,1,1,1,0,2,0,1,1,1,1
+"Spaceflight, 4 days old, Col-0 Rep3",flight,4d,Col-0,1,1,1,0,2,0,1,1,1,1
+"Spaceflight, 4 days old, Col-0 Rep4",flight,4d,Col-0,1,1,1,0,2,0,1,1,1,1
+"Spaceflight, 4 days old, WS Rep1",flight,4d,WS,0,0,0,4,4,1,0,0,0,0
+"Spaceflight, 4 days old, WS Rep2",flight,4d,WS,0,0,0,1,0,1,0,0,0,0
+"Spaceflight, 4 days old, WS Rep3",flight,4d,WS,0,0,0,1,0,1,0,0,0,0
+"Spaceflight, 4 days old, WS Rep4",flight,4d,WS,0,0,0,4,4,1,0,0,0,0
+"Spaceflight, 8 days old, Col-0 Rep1",flight,8d,Col-0,1,1,1,0,1,0,1,1,1,1
+"Spaceflight, 8 days old, Col-0 Rep2",flight,8d,Col-0,0,0,3,3,3,0,1,1,0,0
+"Spaceflight, 8 days old, Col-0 Rep3",flight,8d,Col-0,1,1,1,0,1,0,1,1,1,1
+"Spaceflight, 8 days old, Col-0 Rep4",flight,8d,Col-0,1,1,1,0,1,0,1,1,1,1
+"Spaceflight, 8 days old, WS Rep1",flight,8d,WS,0,2,2,2,5,1,0,0,0,0
+"Spaceflight, 8 days old, WS Rep2",flight,8d,WS,0,2,2,2,5,1,0,0,0,0
+"Spaceflight, 8 days old, WS Rep3",flight,8d,WS,0,2,2,2,5,1,0,0,0,0
+"Spaceflight, 8 days old, WS Rep4",flight,8d,WS,0,2,2,2,5,1,0,0,0,0
