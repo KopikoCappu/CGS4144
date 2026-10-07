@@ -1,0 +1,121 @@
+Method,Type,Test,Compared_To,Chi_Square,DoF,P_Value,Adjusted_P_Value
+Hierarchical,cluster vs group,hier_k2 vs condition,condition,0.0,1,1.0,1.0
+Hierarchical,cluster vs group,hier_k2 vs genotype,genotype,24.596078431372547,1,7.06954560823676e-07,1.600651835827191e-06
+Hierarchical,cluster vs group,hier_k2 vs age,age,0.0,1,1.0,1.0
+Hierarchical,cluster vs group,hier_k3 vs condition,condition,0.17777777777777776,2,0.9149472287300311,1.0
+Hierarchical,cluster vs group,hier_k3 vs genotype,genotype,28.444444444444443,2,6.658361469857316e-07,1.600651835827191e-06
+Hierarchical,cluster vs group,hier_k3 vs age,age,13.511111111111111,2,0.0011643927697240226,0.0020548107701012165
+Hierarchical,cluster vs group,hier_k4 vs condition,condition,1.0666666666666667,3,0.7851263564754859,1.0
+Hierarchical,cluster vs group,hier_k4 vs genotype,genotype,32.0,3,5.233466447749424e-07,1.600651835827191e-06
+Hierarchical,cluster vs group,hier_k4 vs age,age,17.066666666666666,3,0.0006847766963815389,0.0012264657248624578
+Hierarchical,cluster vs group,hier_k5 vs condition,condition,3.7333333333333334,4,0.4432963583745305,0.6999416184861008
+Hierarchical,cluster vs group,hier_k5 vs genotype,genotype,32.0,4,1.9130979702274063e-06,4.099495650487299e-06
+Hierarchical,cluster vs group,hier_k5 vs age,age,17.066666666666666,4,0.0018761398126510007,0.0032162396788302868
+Hierarchical,cluster vs group,hier_k6 vs condition,condition,3.8095238095238093,5,0.57715281027257,0.899458925100109
+Hierarchical,cluster vs group,hier_k6 vs genotype,genotype,32.0,5,5.941260104771349e-06,1.1687724796271507e-05
+Hierarchical,cluster vs group,hier_k6 vs age,age,32.0,5,5.941260104771349e-06,1.1687724796271507e-05
+Hierarchical,cluster vs group,hier_10_genes vs condition,condition,0.0,1,1.0,1.0
+Hierarchical,cluster vs group,hier_10_genes vs genotype,genotype,28.125,1,1.1372725656979661e-07,5.288981091636067e-07
+Hierarchical,cluster vs group,hier_10_genes vs age,age,0.0,1,1.0,1.0
+Hierarchical,cluster vs group,hier_100_genes vs condition,condition,0.0,1,1.0,1.0
+Hierarchical,cluster vs group,hier_100_genes vs genotype,genotype,28.125,1,1.1372725656979661e-07,5.288981091636067e-07
+Hierarchical,cluster vs group,hier_100_genes vs age,age,0.0,1,1.0,1.0
+Hierarchical,cluster vs group,hier_1000_genes vs condition,condition,0.0,1,1.0,1.0
+Hierarchical,cluster vs group,hier_1000_genes vs genotype,genotype,28.125,1,1.1372725656979661e-07,5.288981091636067e-07
+Hierarchical,cluster vs group,hier_1000_genes vs age,age,0.0,1,1.0,1.0
+Hierarchical,cluster vs group,hier_5000_genes vs condition,condition,0.0,1,1.0,1.0
+Hierarchical,cluster vs group,hier_5000_genes vs genotype,genotype,24.596078431372547,1,7.06954560823676e-07,1.600651835827191e-06
+Hierarchical,cluster vs group,hier_5000_genes vs age,age,0.0,1,1.0,1.0
+Hierarchical,cluster vs group,hier_10000_genes vs condition,condition,0.0,1,1.0,1.0
+Hierarchical,cluster vs group,hier_10000_genes vs genotype,genotype,24.596078431372547,1,7.06954560823676e-07,1.600651835827191e-06
+Hierarchical,cluster vs group,hier_10000_genes vs age,age,0.0,1,1.0,1.0
+K-means,cluster vs group,kmeans_k2 vs condition,condition,0.0,1,1.0,1.0
+K-means,cluster vs group,kmeans_k2 vs genotype,genotype,28.125,1,1.1372725656979661e-07,5.288981091636067e-07
+K-means,cluster vs group,kmeans_k2 vs age,age,0.0,1,1.0,1.0
+K-means,cluster vs group,kmeans_k3 vs condition,condition,1.7523809523809526,2,0.4163660506476037,0.6751881902393573
+K-means,cluster vs group,kmeans_k3 vs genotype,genotype,28.57142857142857,2,6.248749509463099e-07,1.600651835827191e-06
+K-means,cluster vs group,kmeans_k3 vs age,age,7.238095238095238,2,0.026808195953778993,0.044680326589631655
+K-means,cluster vs group,kmeans_k4 vs condition,condition,1.0666666666666667,3,0.7851263564754859,1.0
+K-means,cluster vs group,kmeans_k4 vs genotype,genotype,32.0,3,5.233466447749424e-07,1.600651835827191e-06
+K-means,cluster vs group,kmeans_k4 vs age,age,17.066666666666666,3,0.0006847766963815389,0.0012264657248624578
+K-means,cluster vs group,kmeans_k5 vs condition,condition,3.7333333333333334,4,0.4432963583745305,0.6999416184861008
+K-means,cluster vs group,kmeans_k5 vs genotype,genotype,32.0,4,1.9130979702274063e-06,4.099495650487299e-06
+K-means,cluster vs group,kmeans_k5 vs age,age,17.066666666666666,4,0.0018761398126510007,0.0032162396788302868
+K-means,cluster vs group,kmeans_k6 vs condition,condition,3.453968253968254,5,0.6303639773272797,0.9575149022692856
+K-means,cluster vs group,kmeans_k6 vs genotype,genotype,32.0,5,5.941260104771349e-06,1.1687724796271507e-05
+K-means,cluster vs group,kmeans_k6 vs age,age,28.444444444444443,5,2.9794537281591735e-05,5.6751499583984254e-05
+K-means,cluster vs group,kmeans_10_genes vs condition,condition,0.0,1,1.0,1.0
+K-means,cluster vs group,kmeans_10_genes vs genotype,genotype,28.125,1,1.1372725656979661e-07,5.288981091636067e-07
+K-means,cluster vs group,kmeans_10_genes vs age,age,0.0,1,1.0,1.0
+K-means,cluster vs group,kmeans_100_genes vs condition,condition,0.0,1,1.0,1.0
+K-means,cluster vs group,kmeans_100_genes vs genotype,genotype,28.125,1,1.1372725656979661e-07,5.288981091636067e-07
+K-means,cluster vs group,kmeans_100_genes vs age,age,0.0,1,1.0,1.0
+K-means,cluster vs group,kmeans_1000_genes vs condition,condition,0.0,1,1.0,1.0
+K-means,cluster vs group,kmeans_1000_genes vs genotype,genotype,28.125,1,1.1372725656979661e-07,5.288981091636067e-07
+K-means,cluster vs group,kmeans_1000_genes vs age,age,0.0,1,1.0,1.0
+K-means,cluster vs group,kmeans_5000_genes vs condition,condition,0.0,1,1.0,1.0
+K-means,cluster vs group,kmeans_5000_genes vs genotype,genotype,28.125,1,1.1372725656979661e-07,5.288981091636067e-07
+K-means,cluster vs group,kmeans_5000_genes vs age,age,0.0,1,1.0,1.0
+K-means,cluster vs group,kmeans_10000_genes vs condition,condition,0.0,1,1.0,1.0
+K-means,cluster vs group,kmeans_10000_genes vs genotype,genotype,24.59607843137255,1,7.069545608236743e-07,1.600651835827191e-06
+K-means,cluster vs group,kmeans_10000_genes vs age,age,0.0,1,1.0,1.0
+GMM,cluster vs group,gmm_k_2 vs condition,condition,0.0,1,1.0,1.0
+GMM,cluster vs group,gmm_k_2 vs genotype,genotype,24.59607843137255,1,7.069545608236743e-07,1.600651835827191e-06
+GMM,cluster vs group,gmm_k_2 vs age,age,0.0,1,1.0,1.0
+GMM,cluster vs group,gmm_k_3 vs condition,condition,0.25396825396825395,2,0.8807476526076742,1.0
+GMM,cluster vs group,gmm_k_3 vs genotype,genotype,32.0,2,1.1253517471925916e-07,5.288981091636067e-07
+GMM,cluster vs group,gmm_k_3 vs age,age,12.444444444444443,2,0.0019848295804182066,0.0033546415443688
+GMM,cluster vs group,gmm_k_4 vs condition,condition,1.8285714285714287,3,0.6087372975115972,0.9365189192486111
+GMM,cluster vs group,gmm_k_4 vs genotype,genotype,28.57142857142857,3,2.7553168013358998e-06,5.8006669501808415e-06
+GMM,cluster vs group,gmm_k_4 vs age,age,22.17142857142857,3,6.0086923705268504e-05,0.00011092970530203416
+GMM,cluster vs group,gmm_k_5 vs condition,condition,2.2095238095238097,4,0.6972860481103729,1.0
+GMM,cluster vs group,gmm_k_5 vs genotype,genotype,32.0,4,1.9130979702274063e-06,4.099495650487299e-06
+GMM,cluster vs group,gmm_k_5 vs age,age,25.6,4,3.8098661494113324e-05,7.143499030146248e-05
+GMM,cluster vs group,gmm_k_6 vs condition,condition,8.253968253968253,5,0.14278322727433265,0.23471215442356055
+GMM,cluster vs group,gmm_k_6 vs genotype,genotype,32.0,5,5.941260104771349e-06,1.1687724796271507e-05
+GMM,cluster vs group,gmm_k_6 vs age,age,28.444444444444443,5,2.9794537281591735e-05,5.6751499583984254e-05
+GMM,cluster vs group,gmm_10_genes vs condition,condition,0.0,1,1.0,1.0
+GMM,cluster vs group,gmm_10_genes vs genotype,genotype,28.125,1,1.1372725656979661e-07,5.288981091636067e-07
+GMM,cluster vs group,gmm_10_genes vs age,age,0.0,1,1.0,1.0
+GMM,cluster vs group,gmm_100_genes vs condition,condition,0.0,1,1.0,1.0
+GMM,cluster vs group,gmm_100_genes vs genotype,genotype,28.125,1,1.1372725656979661e-07,5.288981091636067e-07
+GMM,cluster vs group,gmm_100_genes vs age,age,0.0,1,1.0,1.0
+GMM,cluster vs group,gmm_1000_genes vs condition,condition,0.0,1,1.0,1.0
+GMM,cluster vs group,gmm_1000_genes vs genotype,genotype,28.125,1,1.1372725656979661e-07,5.288981091636067e-07
+GMM,cluster vs group,gmm_1000_genes vs age,age,0.0,1,1.0,1.0
+GMM,cluster vs group,gmm_5000_genes vs condition,condition,0.0,1,1.0,1.0
+GMM,cluster vs group,gmm_5000_genes vs genotype,genotype,24.59607843137255,1,7.069545608236743e-07,1.600651835827191e-06
+GMM,cluster vs group,gmm_5000_genes vs age,age,0.0,1,1.0,1.0
+GMM,cluster vs group,gmm_10000_genes vs condition,condition,0.0,1,1.0,1.0
+GMM,cluster vs group,gmm_10000_genes vs genotype,genotype,24.59607843137255,1,7.069545608236743e-07,1.600651835827191e-06
+GMM,cluster vs group,gmm_10000_genes vs age,age,0.0,1,1.0,1.0
+Hierarchical,gene-count pair,hier_10_genes vs hier_100_genes,,28.125,1,1.1372725656979661e-07,5.288981091636067e-07
+Hierarchical,gene-count pair,hier_10_genes vs hier_1000_genes,,28.125,1,1.1372725656979661e-07,5.288981091636067e-07
+Hierarchical,gene-count pair,hier_10_genes vs hier_5000_genes,,24.596078431372547,1,7.06954560823676e-07,1.600651835827191e-06
+Hierarchical,gene-count pair,hier_10_genes vs hier_10000_genes,,24.596078431372547,1,7.06954560823676e-07,1.600651835827191e-06
+Hierarchical,gene-count pair,hier_100_genes vs hier_1000_genes,,28.125,1,1.1372725656979661e-07,5.288981091636067e-07
+Hierarchical,gene-count pair,hier_100_genes vs hier_5000_genes,,24.596078431372547,1,7.06954560823676e-07,1.600651835827191e-06
+Hierarchical,gene-count pair,hier_100_genes vs hier_10000_genes,,24.596078431372547,1,7.06954560823676e-07,1.600651835827191e-06
+Hierarchical,gene-count pair,hier_1000_genes vs hier_5000_genes,,24.596078431372547,1,7.06954560823676e-07,1.600651835827191e-06
+Hierarchical,gene-count pair,hier_1000_genes vs hier_10000_genes,,24.596078431372547,1,7.06954560823676e-07,1.600651835827191e-06
+Hierarchical,gene-count pair,hier_5000_genes vs hier_10000_genes,,28.11029603998462,1,1.1459459031878145e-07,5.288981091636067e-07
+K-means,gene-count pair,kmeans_10_genes vs kmeans_100_genes,,28.125,1,1.1372725656979661e-07,5.288981091636067e-07
+K-means,gene-count pair,kmeans_10_genes vs kmeans_1000_genes,,28.125,1,1.1372725656979661e-07,5.288981091636067e-07
+K-means,gene-count pair,kmeans_10_genes vs kmeans_5000_genes,,28.125,1,1.1372725656979661e-07,5.288981091636067e-07
+K-means,gene-count pair,kmeans_10_genes vs kmeans_10000_genes,,24.596078431372547,1,7.06954560823676e-07,1.600651835827191e-06
+K-means,gene-count pair,kmeans_100_genes vs kmeans_1000_genes,,28.125,1,1.1372725656979661e-07,5.288981091636067e-07
+K-means,gene-count pair,kmeans_100_genes vs kmeans_5000_genes,,28.125,1,1.1372725656979661e-07,5.288981091636067e-07
+K-means,gene-count pair,kmeans_100_genes vs kmeans_10000_genes,,24.596078431372547,1,7.06954560823676e-07,1.600651835827191e-06
+K-means,gene-count pair,kmeans_1000_genes vs kmeans_5000_genes,,28.125,1,1.1372725656979661e-07,5.288981091636067e-07
+K-means,gene-count pair,kmeans_1000_genes vs kmeans_10000_genes,,24.596078431372547,1,7.06954560823676e-07,1.600651835827191e-06
+K-means,gene-count pair,kmeans_5000_genes vs kmeans_10000_genes,,24.596078431372547,1,7.06954560823676e-07,1.600651835827191e-06
+GMM,gene-count pair,gmm_10_genes vs gmm_100_genes,,28.125,1,1.1372725656979661e-07,5.288981091636067e-07
+GMM,gene-count pair,gmm_10_genes vs gmm_1000_genes,,28.125,1,1.1372725656979661e-07,5.288981091636067e-07
+GMM,gene-count pair,gmm_10_genes vs gmm_5000_genes,,24.596078431372547,1,7.06954560823676e-07,1.600651835827191e-06
+GMM,gene-count pair,gmm_10_genes vs gmm_10000_genes,,24.596078431372547,1,7.06954560823676e-07,1.600651835827191e-06
+GMM,gene-count pair,gmm_100_genes vs gmm_1000_genes,,28.125,1,1.1372725656979661e-07,5.288981091636067e-07
+GMM,gene-count pair,gmm_100_genes vs gmm_5000_genes,,24.596078431372547,1,7.06954560823676e-07,1.600651835827191e-06
+GMM,gene-count pair,gmm_100_genes vs gmm_10000_genes,,24.596078431372547,1,7.06954560823676e-07,1.600651835827191e-06
+GMM,gene-count pair,gmm_1000_genes vs gmm_5000_genes,,24.596078431372547,1,7.06954560823676e-07,1.600651835827191e-06
+GMM,gene-count pair,gmm_1000_genes vs gmm_10000_genes,,24.596078431372547,1,7.06954560823676e-07,1.600651835827191e-06
+GMM,gene-count pair,gmm_5000_genes vs gmm_10000_genes,,28.11029603998462,1,1.1459459031878145e-07,5.288981091636067e-07
