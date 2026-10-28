@@ -1,0 +1,7 @@
+Method,Genes,Target,AUC,Accuracy
+Logistic Regression,5000,condition,1.0,1.0
+Logistic Regression,5000,cluster_k2,1.0,1.0
+Naive Bayes,5000,condition,0.59375,0.59375
+Naive Bayes,5000,cluster_k3,0.9462145969498912,0.9375
+SVM,5000,condition,1.0,1.0
+SVM,5000,cluster_k2,0.996078431372549,0.96875

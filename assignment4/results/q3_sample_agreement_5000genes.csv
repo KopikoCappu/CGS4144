@@ -1,0 +1,33 @@
+refinebio_title,logreg_class,logreg_cluster,nb_class,nb_cluster,svm_class,svm_cluster,class_0_votes,class_1_votes,class_agreement,aligned_cluster_0_votes,aligned_cluster_1_votes,cluster_agreement,cluster_comembership_stability
+"Ground Control, 4 days old, Col-0 Rep1",0,0,1,1,0,0,2,1,2,3,0,3,1.0
+"Ground Control, 4 days old, Col-0 Rep2",0,0,1,1,0,0,2,1,2,3,0,3,1.0
+"Ground Control, 4 days old, Col-0 Rep3",0,0,0,1,0,0,3,0,3,3,0,3,1.0
+"Ground Control, 4 days old, Col-0 Rep4",0,0,1,1,0,0,2,1,2,3,0,3,1.0
+"Ground Control, 4 days old, WS Rep1",0,1,1,0,0,1,2,1,2,0,3,3,0.8064516129032258
+"Ground Control, 4 days old, WS Rep2",0,1,1,0,0,1,2,1,2,0,3,3,0.8064516129032258
+"Ground Control, 4 days old, WS Rep3",0,1,1,0,0,1,2,1,2,0,3,3,0.8064516129032258
+"Ground Control, 4 days old, WS Rep4",0,1,1,2,0,1,2,1,2,0,3,3,0.8494623655913978
+"Ground Control, 8 days old, Col-0 Rep1",0,0,1,1,0,0,2,1,2,3,0,3,1.0
+"Ground Control, 8 days old, Col-0 Rep2",0,0,0,1,0,0,3,0,3,3,0,3,1.0
+"Ground Control, 8 days old, Col-0 Rep3",0,0,1,1,0,0,2,1,2,3,0,3,1.0
+"Ground Control, 8 days old, Col-0 Rep4",0,0,1,1,0,0,2,1,2,3,0,3,1.0
+"Ground Control, 8 days old, WS Rep1",0,1,0,2,0,1,3,0,3,0,3,3,0.8494623655913978
+"Ground Control, 8 days old, WS Rep2",0,1,0,2,0,1,3,0,3,0,3,3,0.8494623655913978
+"Ground Control, 8 days old, WS Rep3",0,1,0,2,0,1,3,0,3,0,3,3,0.8494623655913978
+"Ground Control, 8 days old, WS Rep4",0,1,0,2,0,1,3,0,3,0,3,3,0.8494623655913978
+"Spaceflight, 4 days old, Col-0 Rep1",1,0,1,1,1,0,0,3,3,3,0,3,1.0
+"Spaceflight, 4 days old, Col-0 Rep2",1,0,1,1,1,0,0,3,3,3,0,3,1.0
+"Spaceflight, 4 days old, Col-0 Rep3",1,0,0,1,1,0,1,2,2,3,0,3,1.0
+"Spaceflight, 4 days old, Col-0 Rep4",1,0,1,1,1,0,0,3,3,3,0,3,1.0
+"Spaceflight, 4 days old, WS Rep1",1,1,1,0,1,1,0,3,3,0,3,3,0.8064516129032258
+"Spaceflight, 4 days old, WS Rep2",1,1,1,0,1,1,0,3,3,0,3,3,0.8064516129032258
+"Spaceflight, 4 days old, WS Rep3",1,1,1,0,1,1,0,3,3,0,3,3,0.8064516129032258
+"Spaceflight, 4 days old, WS Rep4",1,1,1,0,1,1,0,3,3,0,3,3,0.8064516129032258
+"Spaceflight, 8 days old, Col-0 Rep1",1,0,1,1,1,0,0,3,3,3,0,3,1.0
+"Spaceflight, 8 days old, Col-0 Rep2",1,0,0,1,1,0,1,2,2,3,0,3,1.0
+"Spaceflight, 8 days old, Col-0 Rep3",1,0,1,1,1,0,0,3,3,3,0,3,1.0
+"Spaceflight, 8 days old, Col-0 Rep4",1,0,0,1,1,0,1,2,2,3,0,3,1.0
+"Spaceflight, 8 days old, WS Rep1",1,1,1,2,1,1,0,3,3,0,3,3,0.8494623655913978
+"Spaceflight, 8 days old, WS Rep2",1,1,1,2,1,1,0,3,3,0,3,3,0.8494623655913978
+"Spaceflight, 8 days old, WS Rep3",1,1,1,2,1,1,0,3,3,0,3,3,0.8494623655913978
+"Spaceflight, 8 days old, WS Rep4",1,1,1,2,1,1,0,3,3,0,3,3,0.8494623655913978

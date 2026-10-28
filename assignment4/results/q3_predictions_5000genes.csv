@@ -1,0 +1,33 @@
+refinebio_title,logreg_class,logreg_cluster,nb_class,nb_cluster,svm_class,svm_cluster
+"Ground Control, 4 days old, Col-0 Rep1",0,0,1,1,0,0
+"Ground Control, 4 days old, Col-0 Rep2",0,0,1,1,0,0
+"Ground Control, 4 days old, Col-0 Rep3",0,0,0,1,0,0
+"Ground Control, 4 days old, Col-0 Rep4",0,0,1,1,0,0
+"Ground Control, 4 days old, WS Rep1",0,1,1,0,0,1
+"Ground Control, 4 days old, WS Rep2",0,1,1,0,0,1
+"Ground Control, 4 days old, WS Rep3",0,1,1,0,0,1
+"Ground Control, 4 days old, WS Rep4",0,1,1,2,0,1
+"Ground Control, 8 days old, Col-0 Rep1",0,0,1,1,0,0
+"Ground Control, 8 days old, Col-0 Rep2",0,0,0,1,0,0
+"Ground Control, 8 days old, Col-0 Rep3",0,0,1,1,0,0
+"Ground Control, 8 days old, Col-0 Rep4",0,0,1,1,0,0
+"Ground Control, 8 days old, WS Rep1",0,1,0,2,0,1
+"Ground Control, 8 days old, WS Rep2",0,1,0,2,0,1
+"Ground Control, 8 days old, WS Rep3",0,1,0,2,0,1
+"Ground Control, 8 days old, WS Rep4",0,1,0,2,0,1
+"Spaceflight, 4 days old, Col-0 Rep1",1,0,1,1,1,0
+"Spaceflight, 4 days old, Col-0 Rep2",1,0,1,1,1,0
+"Spaceflight, 4 days old, Col-0 Rep3",1,0,0,1,1,0
+"Spaceflight, 4 days old, Col-0 Rep4",1,0,1,1,1,0
+"Spaceflight, 4 days old, WS Rep1",1,1,1,0,1,1
+"Spaceflight, 4 days old, WS Rep2",1,1,1,0,1,1
+"Spaceflight, 4 days old, WS Rep3",1,1,1,0,1,1
+"Spaceflight, 4 days old, WS Rep4",1,1,1,0,1,1
+"Spaceflight, 8 days old, Col-0 Rep1",1,0,1,1,1,0
+"Spaceflight, 8 days old, Col-0 Rep2",1,0,0,1,1,0
+"Spaceflight, 8 days old, Col-0 Rep3",1,0,1,1,1,0
+"Spaceflight, 8 days old, Col-0 Rep4",1,0,0,1,1,0
+"Spaceflight, 8 days old, WS Rep1",1,1,1,2,1,1
+"Spaceflight, 8 days old, WS Rep2",1,1,1,2,1,1
+"Spaceflight, 8 days old, WS Rep3",1,1,1,2,1,1
+"Spaceflight, 8 days old, WS Rep4",1,1,1,2,1,1
