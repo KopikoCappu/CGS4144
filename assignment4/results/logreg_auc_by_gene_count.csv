@@ -1,0 +1,11 @@
+Method,Genes,Target,AUC,Accuracy
+Logistic Regression,10,condition,0.65234375,0.625
+Logistic Regression,10,cluster_k2,1.0,1.0
+Logistic Regression,100,condition,0.9140625,0.90625
+Logistic Regression,100,cluster_k2,1.0,1.0
+Logistic Regression,1000,condition,1.0,1.0
+Logistic Regression,1000,cluster_k2,1.0,1.0
+Logistic Regression,5000,condition,1.0,1.0
+Logistic Regression,5000,cluster_k2,1.0,1.0
+Logistic Regression,10000,condition,1.0,1.0
+Logistic Regression,10000,cluster_k2,1.0,1.0

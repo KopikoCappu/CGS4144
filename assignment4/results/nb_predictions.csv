@@ -1,0 +1,33 @@
+refinebio_title,nb_condition_10genes,nb_cluster_k3_10genes,nb_condition_100genes,nb_cluster_k3_100genes,nb_condition_1000genes,nb_cluster_k3_1000genes,nb_condition_5000genes,nb_cluster_k3_5000genes,nb_condition_10000genes,nb_cluster_k3_10000genes
+"Ground Control, 4 days old, Col-0 Rep1",0,1,0,1,1,1,1,1,1,1
+"Ground Control, 4 days old, Col-0 Rep2",0,1,1,1,1,1,1,1,1,1
+"Ground Control, 4 days old, Col-0 Rep3",0,1,0,1,0,1,0,1,0,1
+"Ground Control, 4 days old, Col-0 Rep4",0,1,1,1,1,1,1,1,1,1
+"Ground Control, 4 days old, WS Rep1",1,2,1,0,1,0,1,0,1,0
+"Ground Control, 4 days old, WS Rep2",1,2,1,0,1,0,1,0,1,0
+"Ground Control, 4 days old, WS Rep3",1,2,1,0,1,0,1,0,1,0
+"Ground Control, 4 days old, WS Rep4",1,2,1,0,1,0,1,2,1,2
+"Ground Control, 8 days old, Col-0 Rep1",0,1,0,1,0,1,1,1,1,1
+"Ground Control, 8 days old, Col-0 Rep2",0,1,0,1,0,1,0,1,1,1
+"Ground Control, 8 days old, Col-0 Rep3",0,1,0,1,1,1,1,1,1,1
+"Ground Control, 8 days old, Col-0 Rep4",0,1,0,1,1,1,1,1,1,1
+"Ground Control, 8 days old, WS Rep1",1,2,0,2,0,2,0,2,0,2
+"Ground Control, 8 days old, WS Rep2",1,2,0,2,0,2,0,2,0,2
+"Ground Control, 8 days old, WS Rep3",1,2,0,2,0,2,0,2,0,2
+"Ground Control, 8 days old, WS Rep4",1,2,0,2,0,2,0,2,0,2
+"Spaceflight, 4 days old, Col-0 Rep1",1,1,0,1,1,1,1,1,1,1
+"Spaceflight, 4 days old, Col-0 Rep2",0,1,0,1,1,1,1,1,1,1
+"Spaceflight, 4 days old, Col-0 Rep3",0,1,1,1,0,1,0,1,0,1
+"Spaceflight, 4 days old, Col-0 Rep4",0,0,1,0,1,1,1,1,1,1
+"Spaceflight, 4 days old, WS Rep1",1,2,1,0,1,0,1,0,1,0
+"Spaceflight, 4 days old, WS Rep2",1,2,1,0,1,0,1,0,1,0
+"Spaceflight, 4 days old, WS Rep3",1,2,1,0,1,0,1,0,1,0
+"Spaceflight, 4 days old, WS Rep4",1,2,1,0,1,0,1,0,1,0
+"Spaceflight, 8 days old, Col-0 Rep1",0,0,0,0,0,1,1,1,1,1
+"Spaceflight, 8 days old, Col-0 Rep2",1,1,0,1,0,1,0,1,0,1
+"Spaceflight, 8 days old, Col-0 Rep3",0,1,0,1,0,1,1,1,1,1
+"Spaceflight, 8 days old, Col-0 Rep4",0,1,0,1,1,1,0,1,0,1
+"Spaceflight, 8 days old, WS Rep1",1,2,1,2,1,2,1,2,1,2
+"Spaceflight, 8 days old, WS Rep2",1,2,1,2,1,2,1,2,1,2
+"Spaceflight, 8 days old, WS Rep3",1,0,1,0,1,2,1,2,1,2
+"Spaceflight, 8 days old, WS Rep4",1,2,1,0,1,2,1,2,1,2
